@@ -1,0 +1,445 @@
+[
+  {
+    "title": "The Matrix",
+    "dates": [
+      {
+        "date": "03-01-2024",
+        "reservedSeats": [
+          5,
+          7,
+          12,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          7,
+          9,
+          11,
+          15,
+          20
+        ]
+      },
+      {
+        "date": "08-01-2024",
+        "reservedSeats": [
+          4,
+          5,
+          8,
+          9,
+          17,
+          20
+        ]
+      },
+      {
+        "date": "09-01-2024",
+        "reservedSeats": [
+          3,
+          10,
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Godfather",
+    "dates": [
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          1,
+          4,
+          7,
+          8,
+          14
+        ]
+      },
+      {
+        "date": "06-01-2024",
+        "reservedSeats": [
+          4,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "date": "09-01-2024",
+        "reservedSeats": [
+          2,
+          5,
+          6,
+          10,
+          12,
+          15,
+          20
+        ]
+      },
+      {
+        "date": "14-01-2024",
+        "reservedSeats": [
+          3,
+          4,
+          9,
+          16,
+          17,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "dates": [
+      {
+        "date": "05-01-2024",
+        "reservedSeats": [
+          2,
+          3,
+          9,
+          12
+        ]
+      },
+      {
+        "date": "07-01-2024",
+        "reservedSeats": [
+          4,
+          19,
+          20
+        ]
+      },
+      {
+        "date": "10-01-2024",
+        "reservedSeats": [
+          1,
+          3,
+          11,
+          12,
+          13,
+          17,
+          18
+        ]
+      },
+      {
+        "date": "13-01-2024",
+        "reservedSeats": [
+          4,
+          16,
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "dates": [
+      {
+        "date": "02-01-2024",
+        "reservedSeats": [
+          2,
+          4,
+          6,
+          7,
+          10,
+          18
+        ]
+      },
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          4,
+          6,
+          12,
+          14,
+          15
+        ]
+      },
+      {
+        "date": "07-01-2024",
+        "reservedSeats": [
+          1,
+          2,
+          8,
+          13,
+          19
+        ]
+      },
+      {
+        "date": "10-01-2024",
+        "reservedSeats": [
+          1,
+          10,
+          15,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "dates": [
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          6,
+          9,
+          10,
+          18,
+          19
+        ]
+      },
+      {
+        "date": "06-01-2024",
+        "reservedSeats": [
+          1,
+          6,
+          12,
+          18,
+          20
+        ]
+      },
+      {
+        "date": "09-01-2024",
+        "reservedSeats": [
+          6,
+          8,
+          10,
+          19
+        ]
+      },
+      {
+        "date": "11-01-2024",
+        "reservedSeats": [
+          1,
+          4,
+          5,
+          13,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "dates": [
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          2,
+          6,
+          9,
+          13
+        ]
+      },
+      {
+        "date": "06-01-2024",
+        "reservedSeats": [
+          9,
+          12,
+          15,
+          17,
+          18,
+          20
+        ]
+      },
+      {
+        "date": "10-01-2024",
+        "reservedSeats": [
+          2,
+          5,
+          6,
+          13,
+          15,
+          17
+        ]
+      },
+      {
+        "date": "12-01-2024",
+        "reservedSeats": [
+          10,
+          16,
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Schindler's List",
+    "dates": [
+      {
+        "date": "05-01-2024",
+        "reservedSeats": [
+          6,
+          9,
+          16,
+          19
+        ]
+      },
+      {
+        "date": "07-01-2024",
+        "reservedSeats": [
+          3,
+          7,
+          13,
+          16
+        ]
+      },
+      {
+        "date": "11-01-2024",
+        "reservedSeats": [
+          4,
+          10
+        ]
+      },
+      {
+        "date": "13-01-2024",
+        "reservedSeats": [
+          4,
+          10,
+          13,
+          15,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "dates": [
+      {
+        "date": "02-01-2024",
+        "reservedSeats": [
+          6,
+          11,
+          14
+        ]
+      },
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          4,
+          6,
+          16,
+          20
+        ]
+      },
+      {
+        "date": "08-01-2024",
+        "reservedSeats": [
+          11,
+          12
+        ]
+      },
+      {
+        "date": "10-01-2024",
+        "reservedSeats": [
+          1,
+          9,
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fight Club",
+    "dates": [
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          3,
+          7,
+          10,
+          12,
+          14,
+          16,
+          18
+        ]
+      },
+      {
+        "date": "05-01-2024",
+        "reservedSeats": [
+          1,
+          3,
+          5,
+          6,
+          11
+        ]
+      },
+      {
+        "date": "09-01-2024",
+        "reservedSeats": [
+          2,
+          12,
+          14,
+          19
+        ]
+      },
+      {
+        "date": "11-01-2024",
+        "reservedSeats": [
+          1,
+          11,
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Forrest Gump",
+    "dates": [
+      {
+        "date": "04-01-2024",
+        "reservedSeats": [
+          6,
+          10,
+          15,
+          18
+        ]
+      },
+      {
+        "date": "05-01-2024",
+        "reservedSeats": [
+          4,
+          13,
+          14,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Inception",
+    "dates": [
+      {
+        "date": "02-01-2024",
+        "reservedSeats": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "date": "09-01-2024",
+        "reservedSeats": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  }
+]
